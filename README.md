@@ -8,5 +8,5 @@
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: Twitter : https://twitter.com/Abhijit872
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: HR gives the package as per his knowledge😄
+- ⚡ Fun fact: HR gives the package as per our knowledge😄
 -->
