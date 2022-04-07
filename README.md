@@ -7,4 +7,5 @@
 - 📫 How to reach me: Twitter : https://twitter.com/Abhijit872
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: HR gives the package as per our knowledge😄
+- ![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=AbhiGadhave11&theme=radical)
 
