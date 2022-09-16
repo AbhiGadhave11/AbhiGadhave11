@@ -1,3 +1,5 @@
+# Hi!! 👋  I'm Abhijit Gadhave 
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -5,7 +7,7 @@
 
 --------------------------------------------------------------------------------------------------------
 
-  # Hi!! 👋  I'm Abhijit Gadhave 
+  
 
 - 🔭 I'm Quick Learner,Educator,Engineer,Student and Developer. 
 - 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
