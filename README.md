@@ -7,10 +7,11 @@
 
 ### Hi!! 👋  I'm Abhijit Gadhave 
 
-- 🔭 I’m currently Studying in 3rd Year Engineering
-- 🌱 I’m currently learning some operating system concept and Web Developement 
+- 🔭 I'm Quick Learner,Educator,Engineer,Student and Developer. 
+- 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
+- 🌱 Currently learning some operating system concept and Web Developement 
 - 👯 I’m looking to collaborate on Blogging
-- 💬 Ask me about c/c++/java/Python/JavaScript/TypeScript Programming , oop concepts, DSA,Angular and Flask Framework.
+- 💬 Ask me about c/c++/java/Python/JavaScript/TypeScript Programming, oop concepts, DSA, Angular and Flask Framework.
 - 📫 How to reach me: Twitter : https://twitter.com/Abhijit872
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: HR gives the package as per our knowledge😄
