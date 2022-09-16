@@ -16,7 +16,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: HR gives the package as per our knowledge😄
 - CheckOut My Blog :-  https://abhigadhave97.blogspot.com/
-- I was a member of a team Hex-e-nius which are selected for Smart India Hackathon Final 2022. 
+- I was a member of a team Hex-e-nius which is selected for Smart India Hackathon Final 2022. 
 
 -------------------------------------------------------------------------------------------------------------
 
