@@ -9,7 +9,7 @@
 
   
 
-- 🔭 I'm Quick Learner,Educator,Engineer,Student and Developer. 
+- 🔭 I'm Quick Learner,Engineer,Student and Developer. 
 - 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
 - 🌱 Currently learning some operating system concept and Web Developement 
 - 👯 I’m looking to collaborate on Blogging
