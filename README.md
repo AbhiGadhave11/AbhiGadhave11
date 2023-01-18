@@ -13,7 +13,7 @@
 - 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
 - 🌱 Currently learning some operating system concept and Web Developement 
 - 👯 I’m looking to collaborate on Blogging
-- 💬 Ask me about c/c++/java/Python/JavaScript/TypeScript Programming, oop concepts, DSA, Angular and Flask Framework.
+- 💬 Ask me about c/c++/java/Python/JavaScript/TypeScript Programming, oop concepts, DSA, Nodejs,Expressjs,Angular Frameword and Flask Framework .
 - 📫 How to reach me: Twitter : https://twitter.com/Abhijit872
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: HR gives the package as per our knowledge😄
