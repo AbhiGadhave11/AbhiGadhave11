@@ -6,7 +6,7 @@
 </div>
 
 
-<img src ="http://cintosunlaw.ca/bcmanagement/assets/images/2.png"/>
+<img src ="http://cintosunlaw.ca/bcmanagement/assets/images/2.png"/ width="600" height="300">
 
 --------------------------------------------------------------------------------------------------------
 
