@@ -54,7 +54,7 @@
 
 
  # replace username with your own or change theme
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbhiGadhave11&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AbhiGadhave11&theme=dracula&hide_border=true)
 
 
 --------------------------------------------------------------------------------------------------------------
