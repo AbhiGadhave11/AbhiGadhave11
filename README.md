@@ -15,13 +15,13 @@
   
 
 - 🔭 I'm Quick Learner,Engineer,Student and Developer. 
-- 🔭 Currently Studying in 3rd Year Engineering (TY B.Tech)
+- 🔭 Currently Software Engineer at Onshape.
 - 🌱 Currently learning some operating system concept and Web Developement 
 - 👯 I’m looking to collaborate on Blogging
 - 💬 Ask me about c/c++/java/Python/JavaScript/TypeScript Programming, oop concepts, DSA, Nodejs,Expressjs,Angular Framework and Flask Framework .
 - 📫 How to reach me: Twitter : https://twitter.com/Abhijit872
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: HR gives the package as per our knowledge😄
+- ⚡ Fun fact: Coding is hard
 - CheckOut My Blog :-  https://abhigadhave97.hashnode.dev/
 - CheckOut My Portfolio As Well :- https://abhigadhave11.github.io/Portfolio/
 - I was a member of a team Hex-e-nius which is selected for Smart India Hackathon Final 2022. 
