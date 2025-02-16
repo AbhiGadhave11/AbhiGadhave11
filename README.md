@@ -22,7 +22,7 @@
 - 📫 How to reach me: Twitter : https://twitter.com/Abhijit872
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: HR gives the package as per our knowledge😄
-- CheckOut My Blog :-  https://abhigadhave97.blogspot.com/
+- CheckOut My Blog :-  https://abhigadhave97.hashnode.dev/
 - CheckOut My Portfolio As Well :- https://abhigadhave11.github.io/Portfolio/
 - I was a member of a team Hex-e-nius which is selected for Smart India Hackathon Final 2022. 
 
