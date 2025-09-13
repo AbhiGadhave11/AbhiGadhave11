@@ -18,12 +18,12 @@
 - 🔭 Currently Software Engineer at Onshape.
 - 🌱 Currently learning some operating system concept and Web Developement 
 - 👯 I’m looking to collaborate on Blogging
-- 💬 Ask me about c/c++/java/Python/JavaScript/TypeScript Programming, oop concepts, DSA, Nodejs,Expressjs,Angular Framework and Flask Framework .
+- 💬 Ask me about c/c++/java/Python/JavaScript/TypeScript Programming, oop concepts, DSA, Docker, Nodejs,Expressjs,Angular Framework .
 - 📫 How to reach me: Twitter : https://twitter.com/Abhijit872
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding is hard
 - CheckOut My Blog :-  https://abhigadhave97.hashnode.dev/
-- CheckOut My Portfolio As Well :- https://abhigadhave11.github.io/Portfolio/
+- CheckOut My Portfolio As Well :- https://abhijitgadhave.com
 - I was a member of a team Hex-e-nius which is selected for Smart India Hackathon Final 2022. 
 
 -------------------------------------------------------------------------------------------------------------
@@ -43,8 +43,6 @@
 
 ### :fire: My Stats :
 
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=AbhiGadhave11
- -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbhiGadhave11&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
@@ -54,12 +52,8 @@
 
 
 
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AbhiGadhave11&theme=dracula&hide_border=true) -->
-
 ## 📊 GitHub Analytics
-
-![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhya-97&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhya-97&theme=tokyonight&hide_border=true)  
+  
 [![Abhijit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhya-97&theme=tokyonight&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
