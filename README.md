@@ -54,7 +54,7 @@
 
 ## 📊 GitHub Analytics
   
-[![Abhijit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhya-97&theme=tokyonight&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhijit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiGadhave11&theme=tokyonight&hide_border=true&area=true)](https://github.com/AbhiGadhave11/github-readme-activity-graph)
 
 
 
