@@ -54,7 +54,14 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AbhiGadhave11&theme=dracula&hide_border=true)
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AbhiGadhave11&theme=dracula&hide_border=true) -->
+
+## 📊 GitHub Analytics
+
+![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhya-97&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Abhya-97&theme=tokyonight&hide_border=true)  
+[![Abhijit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhya-97&theme=tokyonight&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 --------------------------------------------------------------------------------------------------------------
