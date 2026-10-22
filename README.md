@@ -23,7 +23,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding is hard
 - CheckOut My Blog :-  https://abhigadhave97.hashnode.dev/
-- CheckOut My Portfolio As Well :- https://abhijitgadhave.com
 - I was a member of a team Hex-e-nius which is selected for Smart India Hackathon Final 2022. 
 
 -------------------------------------------------------------------------------------------------------------
